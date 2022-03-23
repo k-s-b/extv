@@ -34,4 +34,4 @@ The code of GNN stage is in code/graph/best_signed_with_edge.py.
 
 Data
 ----
-We do not provide training data for privacy reason.
+Due to our non-disclosure agreement with the organization and our Institutional Review Board data management protocol, the raw data cannot be shared.
