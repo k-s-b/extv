@@ -1,1 +1,1 @@
-## Semi-supervised GNNs
+## Code for semi-supervised GNNs & Inference
